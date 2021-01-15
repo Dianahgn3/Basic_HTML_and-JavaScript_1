@@ -1,6 +1,6 @@
 <!DOCTYPE HTML>
 <html>
 <script> 
-alert("Hello Human!!");
+alert('Hello Human!!');
  </script>
  </html>
